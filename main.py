@@ -1,2 +1,1 @@
-print('hello from A')
-print('hello from B')
+print("hello from B, welcome!")
